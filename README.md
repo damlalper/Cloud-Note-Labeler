@@ -23,7 +23,12 @@ This project demonstrates cloud integration and basic AI/NLP capabilities in a s
 ## 🛠️ Requirements
 
 - **Python 3.x**  
-- **Libraries:** `firebase-admin` and `textblob`  
+- **Libraries:** `firebase-admin` and `textblob`
+- 
+### Firebase Service Account Key
+
+This project requires a Firebase Service Account Key to connect to Firestore.  
+**Important:** Do **not** upload your `serviceAccountKey.json` file to GitHub for security reasons.
 
 Install libraries via pip:
 
